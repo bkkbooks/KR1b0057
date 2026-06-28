@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR1b0057/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR1b0057/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 尚書地理今釋
+  date: '2015-08-24 22:04:00.532936'
+  source:
+    repository: kanripo
+    path: KR1b0057
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR1b0057_000-WYG.yaml, hash: 'sha256:e12597f79280ca47aef5a4b69ae71f9b9f491093537d6869863c281a1cd19654'}
+  - {seq: 1, filename: KR1b0057_001-WYG.yaml, hash: 'sha256:03360574a56d74efdee7f75891939f110af259671ce70cefd0f1941fe12e4f71'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1b0057_000-WYG.markers.yaml, hash: 'sha256:2d319bdb89f93a6594d71e44854c7b39d19d5979314e807061285ba8313ba469'}
+  - {seq: 1, role: markers, filename: assets/KR1b0057_001-WYG.markers.yaml, hash: 'sha256:a882f789b70f1fc3154de9f42a58f8e227eea4a5ef876fd6e251d671a54d8a3a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1b0057_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 661
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1b0057_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 16599
+  label: juan 001
+  type: section
+  level: 1
+hash: sha256:5965c8d160b88d4e57b16eb50a3394ebd350a393a46c74195a6c003b87782cb2
