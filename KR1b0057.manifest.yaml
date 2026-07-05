@@ -20,11 +20,11 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR1b0057_000.yaml, hash: 'sha256:5affd125de7dbf3524b1e82ed9d029888d05eef0ac4b16ce349b29b1b2f72caa'}
-  - {seq: 1, filename: KR1b0057_001.yaml, hash: 'sha256:52df12af15f57b4c5de7701d811ef46cacfdb2ee2d8ef6529aa39cabb58eba5b'}
+  - {seq: 0, filename: KR1b0057_000.yaml, hash: 'sha256:2c8f8257a9fb01a18f707b130fb129b665f1d1e313f21d5cc8cf3db3e92e6c0a'}
+  - {seq: 1, filename: KR1b0057_001.yaml, hash: 'sha256:02b612c14da7217a683eb4e6ea17a3286c338cfbc8d687a2873c0d585d146011'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1b0057_000.markers.yaml, hash: 'sha256:50da1ac7a8d5773789c18cbc9097c6c92b10ebb78462705bf6f455eab1bfb55b'}
-  - {seq: 1, role: markers, filename: assets/KR1b0057_001.markers.yaml, hash: 'sha256:028956f2b2bbba3d52ff6d76ab4936024e0e89901560c3caf4d5259627e73114'}
+  - {seq: 0, role: markers, filename: assets/KR1b0057_000.markers.yaml, hash: 'sha256:abcc3decdf4a3ac4e7403f7b3f3ed9f6463b142a0e26b2e581f47fa380f08884'}
+  - {seq: 1, role: markers, filename: assets/KR1b0057_001.markers.yaml, hash: 'sha256:52bba0737ece4a56917f363161d6beb61cc17daf3ceb693abf488295bfbacb6a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,4 @@ table_of_contents:
   label: 尚書地理今釋
   type: section
   level: 1
-hash: sha256:4f5d04d3de948e0950b8a78d9fb4a186e1e902a39c97d65ce36bb7c76cb1343a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:899038ab9168a05fbba287aa6a3c6013aa31bcea8185363163421bf6a847084c
