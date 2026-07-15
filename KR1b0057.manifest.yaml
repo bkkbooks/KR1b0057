@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR1b0057/v1
 canonical_location: https://kanripo.org/bkk/KR1b0057/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 尚書地理今釋
   date: '2015-08-24 22:04:00.532936'
@@ -20,11 +20,11 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR1b0057_000.yaml, hash: 'sha256:2c8f8257a9fb01a18f707b130fb129b665f1d1e313f21d5cc8cf3db3e92e6c0a'}
-  - {seq: 1, filename: KR1b0057_001.yaml, hash: 'sha256:02b612c14da7217a683eb4e6ea17a3286c338cfbc8d687a2873c0d585d146011'}
+  - {seq: 0, filename: KR1b0057_000.yaml, hash: 'sha256:82c731c4377fbfe6f4e088c24f1bfc3c2f4ea5c36f3887503b8176b3ffc0e8e1'}
+  - {seq: 1, filename: KR1b0057_001.yaml, hash: 'sha256:06692a4e0fa0aa162751900e95d655e88d4bc73587b32070c65316a901b7a2a9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1b0057_000.markers.yaml, hash: 'sha256:abcc3decdf4a3ac4e7403f7b3f3ed9f6463b142a0e26b2e581f47fa380f08884'}
-  - {seq: 1, role: markers, filename: assets/KR1b0057_001.markers.yaml, hash: 'sha256:52bba0737ece4a56917f363161d6beb61cc17daf3ceb693abf488295bfbacb6a'}
+  - {seq: 0, role: markers, filename: assets/KR1b0057_000.markers.yaml, hash: 'sha256:f1138963e905a5ad5f72fed446d851d0a3cc0263658cb0b3233292a0ec0a0314'}
+  - {seq: 1, role: markers, filename: assets/KR1b0057_001.markers.yaml, hash: 'sha256:8393525cb3e5e0af4c59589ab20b7eeadd19bf6d974156022732c0b97e77f897'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,4 +46,7 @@ table_of_contents:
   label: 尚書地理今釋
   type: section
   level: 1
-hash: sha256:899038ab9168a05fbba287aa6a3c6013aa31bcea8185363163421bf6a847084c
+hash: sha256:3e28aa43e2c5bf5305240d88bf4f1a3fbd0e96335e56ddca6c98963387fe8df4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
