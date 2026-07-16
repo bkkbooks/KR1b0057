@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR1b0057_000.yaml, hash: 'sha256:82c731c4377fbfe6f4e088c24f1bfc3c2f4ea5c36f3887503b8176b3ffc0e8e1'}
   - {seq: 1, filename: KR1b0057_001.yaml, hash: 'sha256:06692a4e0fa0aa162751900e95d655e88d4bc73587b32070c65316a901b7a2a9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1b0057_000.markers.yaml, hash: 'sha256:f1138963e905a5ad5f72fed446d851d0a3cc0263658cb0b3233292a0ec0a0314'}
-  - {seq: 1, role: markers, filename: assets/KR1b0057_001.markers.yaml, hash: 'sha256:8393525cb3e5e0af4c59589ab20b7eeadd19bf6d974156022732c0b97e77f897'}
+  - {seq: 0, role: markers, filename: assets/KR1b0057_000.markers.yaml, hash: 'sha256:ef98f6b5a923c13085b19a0896487bea1f0d1508df84e3e17fd5baed5f141c3a'}
+  - {seq: 1, role: markers, filename: assets/KR1b0057_001.markers.yaml, hash: 'sha256:be3b167f08dd9c8cc8620559869bd5e5be53590edec0fdae21f8180acb48be33'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 尚書地理今釋
   type: section
   level: 1
-hash: sha256:3e28aa43e2c5bf5305240d88bf4f1a3fbd0e96335e56ddca6c98963387fe8df4
+hash: sha256:1d38ca3d9ae5fcdb395d8fbfb37ca1f66154b8a3e540f1314f4d15633611765c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
